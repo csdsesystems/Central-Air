@@ -1,6 +1,5 @@
 # Central Air Testing Resource Page
 
-
 ## Scenario 3
 
 **External booking forms**
