@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Central Air Testing Resource Page
 
 You can use the [editor on GitHub](https://github.com/csdsesystems/testing-air/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
