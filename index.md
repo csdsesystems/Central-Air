@@ -2,8 +2,9 @@
 
 ## Scenario 1
 * [Sample Pocket Centre Agreement](https://www.dropbox.com/s/e0wj2ibweu2qgl4/Scenario1-Sample-Agreement.pdf?dl=0)
-* [Sample Course Brochure](https://www.dropbox.com/s/zdgbcec0543d76r/Scenario2-Sample-CourseBrochure.pdf?dl=0)
 
+## Scenario 2
+* [Sample Course Brochure](https://www.dropbox.com/s/zdgbcec0543d76r/Scenario2-Sample-CourseBrochure.pdf?dl=0)
 
 ## Scenario 3
 **External booking forms**
